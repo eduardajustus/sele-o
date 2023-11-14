@@ -1,0 +1,31 @@
+
+body{
+    background-image: url(https://c.wallhere.com/photos/42/34/1920x1200_px_landscape-708099.jpg!d);
+   
+    
+}
+
+div{
+    display: inline-block;
+
+}
+span{
+    border: 5px;
+    background-color: white;
+    border-radius: 5px;
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+    margin-left: 620px;
+}
+img{
+    border: 5px solid black;
+}
+#div1{
+    margin-left: 270px;
+    margin-top: 105px;  
+}
+h1{
+   text-align: center;
+    color: black;
+}
